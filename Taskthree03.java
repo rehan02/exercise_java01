@@ -1,4 +1,6 @@
 package com.assignment;
+// Write a program to Check Palindrome
+
 import java.util.Scanner;
 
 public class Taskthree03 {
@@ -8,7 +10,7 @@ public class Taskthree03 {
 		//System.out.println("Enter the number: ");
 		//int num=sc.nextInt();
 		int rnum=0,rem=0,temp;
-		int num=19291;
+		int num=192911;
 		System.out.println("The number you entered is :"+num);
 		temp=num;
 		while(num>0) {

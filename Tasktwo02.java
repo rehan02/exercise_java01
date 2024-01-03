@@ -1,11 +1,11 @@
 package com.assignment;
-
+// Write a program to check whether a character is an alphabet or not.
 public class Tasktwo02 {
 	public static void main(String[] args) {
-		char c='*';
-		if ( 'A' <= c && c <='Z')
+		char c='d';
+		if ( ('A' <= c && c <='Z') | ('a' <= c && c <='z') ) {
 			System.out.println( c+ " is alphabet.");
-		else 
+		} 	else 
 			System.out.println(c+ " is not alphabet");
 	}
 }

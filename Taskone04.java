@@ -1,5 +1,6 @@
 package com.assignment;
 import java.util.Scanner;
+// Write a program to add two numbers.
 
 public class Taskone04 {
 

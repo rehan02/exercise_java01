@@ -1,4 +1,6 @@
 package com.assignment;
+// Write a program to check whether a number is positive or negative.
+
 import java.util.Scanner;
 
 public class Tasktwo01 {

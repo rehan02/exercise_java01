@@ -1,4 +1,7 @@
 package com.assignment;
+
+// Write a program to Check Whether a Number is Prime or Not.
+
 public class Taskthree04 {
 	public static void main(String[] args) {
 		int num=29,i,flag=0;

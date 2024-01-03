@@ -1,4 +1,5 @@
 package com.assignment;
+// print the pattern
 
 public class Taskthree07 {
 

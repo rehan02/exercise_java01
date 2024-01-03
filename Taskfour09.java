@@ -1,4 +1,5 @@
 package com.assignment;
+//Given an array of integers, return indices of the two numbers such that they add up to a specific target. Input: nums = [1,4,10,-3], target =14, Output: [1,2] or [2,1] # 4 + 10 = 14
 
 public class Taskfour09 {
 

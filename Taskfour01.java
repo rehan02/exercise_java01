@@ -1,4 +1,5 @@
 package com.assignment;
+//Write a program to print an array populated by the user.
 
 public class Taskfour01 {
 	public static void main(String[] args) {
@@ -8,20 +9,15 @@ public class Taskfour01 {
 		a[2]=30;
 		a[3]=40;
 		a[4]=50;
+		
+		System.out.println(" using for loop ");
 		for ( int i=0;i<a.length;i++) {
 			System.out.println(a[i]);	
-			}		
-		System.out.println("###2nd Array###");
+			}
 		
-	int b[]= {11,22,33,44,55};
-		for (int j=0;j<b.length;j++) {
-			System.out.println(b[j]);
-			
-		System.out.println("## foreach");
+		System.out.println("using foreach loop");
 		for (int k:a ) {
 			System.out.println(k);
-		}
-			
-		}
-}
+		}	
+	}
 }

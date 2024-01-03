@@ -1,4 +1,5 @@
 package com.assignment;
+// Write a program to Find Factorial of a Number
 
 public class Taskthree02 {
 
@@ -8,7 +9,7 @@ public class Taskthree02 {
 			 fact=fact*i;
 		}
 		
-		System.out.println("Factorial of "+number+" is:"+fact);
+		System.out.println("Factorial of "+number+" is: "+fact);
 	}
 
 }

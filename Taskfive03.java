@@ -1,6 +1,6 @@
 package com.assignment;
-
 import java.util.Arrays;
+//Write a program to check if two strings are anagrams of each other.
 
 public class Taskfive03 {
 // Write a program to check if two strings are anagrams of each other.
@@ -15,8 +15,6 @@ public class Taskfive03 {
 		char[] a2=str2.toCharArray();
 		Arrays.sort(a1);
 		Arrays.sort(a2);
-		
-		
 		System.out.println( Arrays.equals(a1,a2) );
 	}	
 }

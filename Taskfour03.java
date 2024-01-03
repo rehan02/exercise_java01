@@ -1,4 +1,5 @@
 package com.assignment;
+// Write a program to find out whether a given integer is present in an array or not.(By Linear Search)
 
 public class Taskfour03 {
 

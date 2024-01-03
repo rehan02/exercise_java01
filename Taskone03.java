@@ -1,5 +1,5 @@
 package com.assignment;
-
+// Swap two numbers using the third variable as the result name and do the same task without using any third variable.
 public class Taskone03 {
 
 	public static void main(String[] args) {

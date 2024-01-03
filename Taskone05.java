@@ -1,4 +1,7 @@
 package com.assignment;
+// Write a program to print the area of circle, Take radius as input from  the user.(Area = 3.14*radius*radius)
+
+
 import java.util.Scanner;
 public class Taskone05 {
 	public static void main(String[] args) {
